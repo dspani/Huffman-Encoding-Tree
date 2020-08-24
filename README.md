@@ -8,5 +8,5 @@
 ## What I learned:
 - Working with binary files
 - Working with binary, bits, and bitmasks.
-- Working with binary search trees, priority queuesm and unordered maps
+- Working with binary search trees, priority queues and unordered maps
 - Using commandline arguments
